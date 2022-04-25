@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesseba
-- 👀 I’m interested in computational social choice, and the intersection between game theory, economics and algorithms. 
+- 👀 I’m interested in computational social choice, and the intersection of game theory, economics and algorithms. 
 - 📚 My background is in molecular neuroscience and I've been working in a systems neuro lab for the past couple years.
 - 🌱 I’m currently learning python and machine learning skills! 
 - 💞️ I’m looking to collaborate on anything interesting that I can learn new skills for all the above.
