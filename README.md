@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jesseba
 - 👀 I’m interested in algorithms, neural nets, AI and machine learning methods and the various ways they can be applied to societal problems!
-- 📚 My background is in molecular neuroscience and I've been working in a systems neuro lab for the past couple years.
-- 🌱 I’m currently learning python and machine learning skills! 
-- 💞️ I’m looking to collaborate on anything interesting that I can learn new skills for all the above.
-- 📫 Reach me at jesseba.fernando@gmail.com
+- 📚 My background is in molecular neuroscience and I've been working in a systems neuro lab for four years. I now work at the Dana Farber Data Science Insitute.
+- 🌱 I’m currently learning python, machine learning techniques and recently mastered exiting Vim
 
 <!---
 jesseba/jesseba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
